@@ -1,6 +1,7 @@
 {
   "name": "multiply_test_first_tdd",
   "version": "1.0.0",
+  "type" : "module",
   "description": "To demonstrate how to evolve the multiply example using a Test First approach, from the first test, through to the last test.",
   "main": "index.js",
   "scripts": {
