@@ -1,3 +1,7 @@
+// Pair programming
+// Ayebazibwe Ishmael
+// Ayikoru Alima
+
 import {assert} from 'chai'
 import multiply from '../multiply.js';
 
