@@ -2,7 +2,7 @@
 // Ayebazibwe Ishmael
 // Ayikoru Alima
 
-import {assert} from 'chai'
+import {assert} from 'chai';
 import multiply from '../multiply.js';
 
 describe('Multiply Function', () => {
