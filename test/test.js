@@ -4,6 +4,7 @@
 
 import {assert} from 'chai';
 import multiply from '../multiply.js';
+import {describe, it} from "mocha"
 
 describe('Multiply Function', () => {
   it('should return 1 when multiplying 1 and 1', () => {
